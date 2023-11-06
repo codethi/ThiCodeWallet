@@ -73,11 +73,11 @@ api/*.tgz
 api/.yarn-integrity
 
 # dotenv environment variable files
-api/.env
-api/.env.development.local
-api/.env.test.local
-api/.env.production.local
-api/.env.local
+# api/.env
+# api/.env.development.local
+# api/.env.test.local
+# api/.env.production.local
+# api/.env.local
 
 # parcel-bundler cache (https://parceljs.org/)
 api/.cache
